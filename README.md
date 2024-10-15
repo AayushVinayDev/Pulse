@@ -5,10 +5,7 @@
 Pulse is a real-time chat application built using Next.js, Typescript, React.js, Socket.io, Kafka, Redis, stream adapters, Supabase for user data storage, NextAuth for secure authentication, and Prisma ORM. It is designed to be scalable and fault-tolerant, with a focus on high performance and low latency.
 ## Demo
 
-<video width="100%" controls>
-  <source src="/assets/demo_insta.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
-</video>
+[demo](https://github.com/user-attachments/assets/9339453f-f15e-4a05-8594-4f59ce00e648)
 
 ## Architecture
 
