@@ -13,7 +13,7 @@ Pulse is a real-time chat application built using Next.js, Typescript, React.js,
 ## Architecture
 
 The application is divided into three main components: the frontend, the backend, and the message queue.
-[Architecture Diagram](assets/pulse-arch.svg)
+![Architecture Diagram](assets/pulse-arch.svg)
 
 ### Frontend
 
